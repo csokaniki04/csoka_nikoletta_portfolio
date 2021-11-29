@@ -1,0 +1,270 @@
+h1{
+	text-align: right;
+	font-size: 6vw;
+	min-width: max-content;
+	color: whitesmoke;
+	letter-spacing: 4vw;
+	margin-right: 6vw;
+	font-family: 'Anton', sans-serif;
+	top: -100px;
+
+
+}
+
+
+
+
+.logo {
+	display: inline-flex;
+	align-items: baseline;
+}
+
+
+
+ .logo img{
+	width: 14vw;
+	height: 20vw;
+	position: relative;
+	float: left;
+	margin-top: -5vw;
+	
+	
+}
+
+
+main .háttér {
+    background-image: url("abn.jpg");
+    background-position: center;
+    max-width: 80%;
+    max-height: 40%;
+    paddign: 20px;
+    margin: 100px auto;
+}
+
+
+
+
+
+
+
+
+
+
+.gombok_elo{
+	display: inline-block;
+	
+}
+
+
+.gombok{
+  position: relative;
+  margin-bottom: 4rem;
+  margin-right: auto;
+  margin-left: auto;
+  float: right;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+
+}
+
+
+.gomb4 {
+  
+  background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb4 a{
+  	text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+  
+}
+  
+  
+  
+ .gomb1 {
+  
+  background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb1 a{
+  text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+    
+}
+  
+
+ 
+
+.gomb2 {
+	background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb2 a{
+    text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.szoveg_szinek {
+	display: inline-block;
+	text-align: center;
+
+}
+
+.szsz_kepek{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+
+
+.felh_kep{
+	max-width: 90%;
+	padding: 15px auto;
+
+}
+
+.felh_kep_border{
+	max-width: 90%;
+	padding: 15px auto;
+}
+
+
+.felh_kep img{
+	width: 200px;
+	margin: 2px;
+}
+
+.felh_kep_border img{
+	border: 2px solid black;
+	width: 200px;
+	margin: 2px;
+}
+
+
+.szin {
+	width: 200px;
+	height: 100px;
+	background-color: whitesmoke;
+	border: black solid 2px;
+	padding: 15px auto;	
+	}
+	
+
+
+
+.szoveg1 p{
+	display: inline-block;
+	text-align: center;
+  font-size: 2vw;
+  font-family: 'Anton', sans-serif;
+  bottom: 2rem;
+  padding: 2rem;
+}
+
+.szoveg_szinek p{
+	display: inline-block;
+	text-align: center;
+  font-size: 3vw;
+  font-family: 'Anton', sans-serif;
+  bottom: 1rem;
+  padding: 1rem;
+}
+
+
+
+
+
+.szoveg_unsplash p{
+	display: block;
+	text-align: center;
+  font-size: 1vw;
+  font-family: 'Anton', sans-serif;
+  bottom: 1rem;
+  padding: 1rem;
+}
+
+
+
+
+.szoveg_logo p{
+	display: block;
+	text-align: center;
+  font-size: 2vw;
+  font-family: 'Anton', sans-serif;
+  bottom: 1rem;
+  padding: 1rem;
+}
+
+.logo_kep {
+	max-width: 110%;
+	display: block;
+	padding: 15px auto;
+	text-align: center;
+}
+
+.logo_kep img{
+	max-width: 28vw;
+	margin-bottom: 3vw;
+	border: 2px solid black;
+
+}
+
+
+
+

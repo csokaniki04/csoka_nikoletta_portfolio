@@ -1,0 +1,186 @@
+
+
+h1{
+	text-align: right;
+	font-size: 6vw;
+	min-width: max-content;
+	color: whitesmoke;
+	letter-spacing: 4vw;
+	margin-right: 6vw;
+	font-family: 'Anton', sans-serif;
+	top: -100px;
+
+
+}
+
+.logo {
+	display: inline-flex;
+	align-items: baseline;
+}
+
+
+
+ .logo img{
+	width: 14vw;
+	height: 20vw;
+	position: relative;
+	float: left;
+	margin-top: -5vw;
+	
+}
+
+
+
+
+main .háttér {
+		background-image: url("abn.jpg");
+		background-position: center;
+		max-width: 80%;
+		max-height: 60%;
+		paddign: 30px;
+		margin: 100px auto;
+}
+
+
+.rajzok{
+	display: inline-block;
+	text-align: center;
+}
+
+.kepek{
+	
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.kep {
+	max-width: 80%;
+	padding: 2vw auto;
+}
+
+.kep2 {
+	max-width: 80%;
+	padding: 2vw auto;
+}
+
+
+.kep img{
+	width: 24vw;
+	margin: 3vw;
+}
+
+.kep2 img{
+	width: 24vw;
+	margin: 3vw;
+	transform: rotate(270deg);
+}
+
+
+
+
+
+
+
+.gombok_elo{
+	display: inline-block;
+	
+}
+
+
+.gombok{
+  position: relative;
+  margin-bottom: 4rem;
+  margin-right: auto;
+  margin-left: auto;
+  float: right;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+
+}
+
+
+.gomb4 {
+  
+  background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb4 a{
+  	text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+    
+}
+  
+  
+  
+ .gomb1 {
+  
+  background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb1 a{
+  text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+    
+}
+  
+
+ 
+
+.gomb3 {
+	background-image: url(backgrund.jpg);
+  width: 20vw;
+  height: 2vw;
+  position: relative;
+  margin-right: -3px;
+  border-radius: 100px;
+  box-shadow: 0 6px 20px -5px;
+  transition: .5s ease;
+  text-align: center;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+}
+
+div .gomb3 a{
+    text-decoration: none;
+    font-size: 1vw;
+    color: whitesmoke;
+    font-family:'Anton', sans-serif;
+    letter-spacing: 1vw;
+   
+}
+
+
+
+

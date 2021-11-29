@@ -1,0 +1,177 @@
+
+
+h1{
+	text-align: right;
+	font-size: 6vw;
+	min-width: max-content;
+	color: whitesmoke;
+	letter-spacing: 4vw;
+	margin-right: 6vw;
+	font-family: 'Anton', sans-serif;
+	top: -100px;
+
+
+}
+
+
+
+
+.logo {
+	display: inline-flex;
+	align-items: baseline;
+}
+
+
+
+ .logo img{
+	width: 14vw;
+	height: 20vw;
+	position: relative;
+	float: left;
+	margin-top: -5vw;
+	
+}
+
+
+
+
+
+/*.gombok_elo{
+	display: inline;
+}*/
+
+
+.gombok{
+	position: relative;
+	float: right;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+
+}
+
+
+.gomb1 {
+  background-image: url(backgrund.jpg);
+  width: 50vw;
+	height: 8vw;
+	position: relative;
+	margin-bottom: 2vw;
+	float: right;
+	border-radius: 100px;
+	box-shadow: 0 6px 20px -5px;
+	transition: .5s ease;
+	text-align: center;
+	z-index: 50px;
+	border: whitesmoke solid 2px;
+}
+
+div .gomb1 a{
+		text-decoration: none;
+		font-size: 2vw;
+		color: whitesmoke;
+		font-family:'Anton', sans-serif;
+		letter-spacing: 1vw;
+}
+
+ 
+
+.gomb2 {
+	background-image: url(backgrund.jpg);
+  width: 50vw;
+	height: 8vw;
+	position: relative;
+	margin-bottom: 2vw;
+	float: right;
+	border-radius: 100px;
+	box-shadow: 0 6px 20px -5px;
+	transition: .5s ease;
+	text-align: center;
+	z-index: 100px;
+	border: whitesmoke solid 2px;
+
+}
+
+div .gomb2 a{
+	text-decoration: none;
+		font-size: 2vw;
+		color: whitesmoke;
+		font-family:'Anton', sans-serif;
+		letter-spacing: 1vw;
+}
+
+
+
+.gomb3 {
+	background-image: url(backgrund.jpg);
+  width: 50vw;
+	height: 8vw;
+	position: relative;
+	margin-bottom: 2vw;
+	float: right;
+	border-radius: 100px;
+	box-shadow: 0 6px 20px -5px;
+	transition: .5s ease;
+	text-align: center;
+	z-index: 150px;
+	border: whitesmoke solid 2px;
+
+}
+
+div .gomb3 a{
+	text-decoration: none;
+	font-size: 2vw;
+	color: whitesmoke;
+	font-family:'Anton', sans-serif;
+	letter-spacing: 1vw;
+}
+
+
+
+
+
+
+.szöveg p{
+	text-align: center;
+	color: dimgrey;
+	font-family:'Anton', sans-serif;
+	font-size: 3vw;
+
+}
+
+.szöveg{
+	position: relative;
+	bottom: 4vw;
+	text-align: center;
+}
+
+
+
+
+
+main .háttér {
+    background-image: url("abn.jpg");
+    background-position: center;
+    max-width: 80%;
+    max-height: 60%;
+    paddign: 3vw;
+    margin: 10vw auto;
+    
+}
+
+main .szoveg2 p{
+	color: whitesmoke;
+	font-size: 1vw;
+	font-family:'Anton', sans-serif;
+	letter-spacing: 1rem;
+	float: right;
+	text-align: bottom;
+	/*margin-top: 10vw;*/
+	margin-right: 3px;
+	overflow-y: hidden;
+	display: inline-block;
+	z-index: 200px;
+
+
+}
+
+
